@@ -31,7 +31,7 @@
           </div>
 
           <div class="nav-items">
-            <div><a href="#projects">Projects</a></div>
+            <div><a href="#project">Projects</a></div>
             <div><a href="#skills">Skills</a></div>
             <div><a href="#contact">Contact Me</a></div>
           </div>
@@ -88,7 +88,7 @@
       </div>
 
       <!-- PROJECT SECTION -->
-      <div class="project-section">
+      <div class="project-section" id="project">
         <h2 class="page-header">Projects</h2>
 
         <div class="project-container">
@@ -314,7 +314,8 @@
         </div>
       </div>
 
-      <div class="skill-container" id="skill">
+      <!-- SKILLS SECTION -->
+      <div class="skill-container" id="skills">
         <div class="skill-fade-text">Skills</div>
 
         <div class="skill-container-left">
@@ -372,6 +373,81 @@
           <img src="./images/stack/K8s.svg" alt="" class="skills-logo" />
         </div>
       </div>
+
+      <!-- CONTACT SECTION -->
+      <div class="contactus-form-container" id="contact">
+        <div class="container">
+          <h2 class="contactus-heading">Contact Me</h2>
+          <h3 class="contactus-subHeading">
+            Questions, thoughts, or just want to say hello?
+          </h3>
+
+          <div class="contactuss-form-container">
+            <form class="form" action="">
+              <div class="formfield-container">
+                <input
+                  type="text"
+                  class="formfield"
+                  name="name"
+                  id=""
+                  placeholder="Enter your name"
+                />
+                <input
+                  type="email"
+                  name="email"
+                  id=""
+                  class="formfield"
+                  placeholder="Enter your email address"
+                />
+                <input
+                  type="text"
+                  name="subject"
+                  class="formfield"
+                  id=""
+                  placeholder="Enter your Subject"
+                />
+                <textarea
+                  name="message"
+                  id=""
+                  cols="30"
+                  rows="10"
+                  class="formfield formfield-textarea"
+                  placeholder="Enter your message"
+                ></textarea>
+              </div>
+
+              <div>
+                <button type="submit" class="btn-pink" id="submit-btn">
+                  Send Message
+                  <i class="submit-icon fa-solid fa-paper-plane"></i>
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <!-- FOOTER SECTION -->
+      <footer>
+        <div class="container">
+          <div class="footer-wrapper">
+            <div class="footer-faded-text">Robin Sukhdeve</div>
+            <div class="link-wrapper">
+              <div><a href="#project">Projects</a></div>
+              <div><a href="#skills">Skills</a></div>
+              <div><a href="#contact">Contact Me</a></div>
+            </div>
+
+            <div class="icon-wrapper">
+              <i class="fa-brands fa-linkedin"></i>
+              <i class="fa-brands fa-github"></i>
+              <i class="fa-brands fa-twitter"></i>
+              <i class="fa-brands fa-instagram"></i>
+              <i class="fa-solid fa-envelope"></i>
+            </div>
+          </div>
+        </div>
+      </footer>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
