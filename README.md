@@ -8,7 +8,7 @@ This is a responsive personal portfolio website built using HTML and CSS. The we
 
 ## Live Demo
 
-You can view the live website [here](https://robin-2407.github.io/personal-portfolio/)).
+You can view the live website [here](https://robin-2407.github.io/personal-portfolio/).
 
 ## Sections
 
