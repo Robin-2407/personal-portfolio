@@ -8,7 +8,7 @@ This is a responsive personal portfolio website built using HTML and CSS. The we
 
 ## Live Demo
 
-You can view the live website [here]([https://your-username.github.io/your-repository-name](https://robin-2407.github.io/personal-portfolio/)).
+You can view the live website [here](https://robin-2407.github.io/personal-portfolio/)).
 
 ## Sections
 
@@ -34,10 +34,19 @@ Feel free to reach out to me through this section. It includes a contact form wh
 
 Here are some screenshots of the website:
 
+Home Page
 ![Home Page](images/preview/img1.png)
+
+Project Section
 ![Project Section](images/preview/img2.png)
+
+Skills Section
 ![Skill Section](images/preview/img4.png)
+
+Contact Section
 ![Contact Section](images/preview/img5.png)
+
+Mobile View
 ![Mobile View](images/preview/mobile.png)
 
 ## Getting Started
