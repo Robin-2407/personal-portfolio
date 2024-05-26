@@ -34,11 +34,11 @@ Feel free to reach out to me through this section. It includes a contact form wh
 
 Here are some screenshots of the website:
 
-![Home Page](images\preview\img1.png)
-![Project Section](images\preview\img2.png)
-![Skill Section](images\preview\img4.png)
-![Contact Section](images\preview\img5.png)
-![Mobile View](images\preview\mobile.png)
+![Home Page](images/preview/img1.png)
+![Project Section](images/preview/img2.png)
+![Skill Section](images/preview/img4.png)
+![Contact Section](images/preview/img5.png)
+![Mobile View](images/preview/mobile.png)
 
 ## Getting Started
 
